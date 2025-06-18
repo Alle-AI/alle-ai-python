@@ -1,6 +1,6 @@
 [project]
 name = "alle-ai-sdk"
-version = "1.0.6"
+version = "2.0.0"
 description = "A Python SDK for interacting with the AlleAI platform"
 authors = [{name = "Gen7th", email = "scifaclint@gmail.com"}]
 license = "MIT"
